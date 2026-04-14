@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Markus
 - 👀 I’m interested in Python, Data Engineering and Video Games :-)
-- 🌱 I’m currently learning fastui
+- 🌱 I’m currently doing the Data Engineering Bootcamp with Neue Fische
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me here
 
